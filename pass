@@ -1,2 +1,2 @@
 #!/bin/bash
-ruby ~/guessPswd/pwd.rb
+ruby pwd.rb
